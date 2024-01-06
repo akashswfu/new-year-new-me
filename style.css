@@ -120,7 +120,7 @@ ul {
     text-align: center;
 }
 .callme-section{
-    background-image: url('/images/watch.png'),url('images/gradient2.png');
+    background-image: url('images/gradient2.png'),url('/images/watch.png');
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
